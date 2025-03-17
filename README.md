@@ -22,7 +22,12 @@ Python offers various options for **Graphical User Interfaces (GUI)**, with **Tk
 ✔️ Customizable layouts to match restaurant needs.  
 
 ---
+## 🛠 Technologies Used
+🔹 Python
+🔹 Tkinter (for GUI development)
+🔹 SQLite (for storing order data) (optional)
 
+---
 ## 🚀 Why Use This System?
 
 - **Enhances Efficiency** – Reduces manual work and speeds up the checkout process.  
